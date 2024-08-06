@@ -1,6 +1,6 @@
 HELP.md
 target/
-!spring-kafka/.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
@@ -31,8 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-# DS_Store files
-.DS_Store
-
-spring-kafka
